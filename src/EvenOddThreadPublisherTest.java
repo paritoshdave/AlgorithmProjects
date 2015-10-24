@@ -2,7 +2,7 @@ import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.BlockingQueue;
 
 /**
- * Created by Paritosh Dave on 9/20/2015.
+ * Created by Paritosh Dave.
  *
  * Two publisher threads publishing data to their respective queue and
  * consumer is bound to both of the queue, consumer reads data in consecutive fashion from both the publisher queue.
