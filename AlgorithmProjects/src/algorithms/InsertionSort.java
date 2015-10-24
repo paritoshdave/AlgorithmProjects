@@ -1,5 +1,9 @@
 package algorithms;
 
+/*
+  This is stateless utility class, thus object of this class should never be created
+  This does in-place sorting (ascending or descending)
+ */
 import java.lang.RuntimeException;
 
 final public class InsertionSort
