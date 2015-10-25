@@ -9,6 +9,7 @@
  *
  * Note: size of the array used to capture the bit data is 32. This is due to the fact that in java, 4 Bytes( 32 bits)
  * are used to hold any integer data.
+ *
  */
 public class BinaryAddition {
 
